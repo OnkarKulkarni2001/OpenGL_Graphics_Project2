@@ -1,0 +1,89 @@
+number_of_meshes 20
+
+mesh_paths 
+"..\assets\models\cubeMapObject.ply" 6
+"..\assets\models\nintendoSwitch.ply" 5
+"..\assets\models\tree.ply" 2
+"..\assets\models\Flat_Plane_xyz_N__rgba_uv.ply" 1
+"..\assets\models\moon.ply" 1
+"..\assets\models\pyramid.ply" 1
+"..\assets\models\goku.ply" 1
+"..\assets\models\Shenron.ply" 1
+"..\assets\models\ShenronEye.ply" 1
+"..\assets\models\ShenronMustach.ply" 1
+"..\assets\models\ShenronSpikes.ply" 1
+"..\assets\models\ShenronTeeth.ply" 1
+"..\assets\models\ShenronTongue.ply" 1
+"..\assets\models\dragonBall1Star.ply" 1
+"..\assets\models\dragonBall7Star.ply" 1
+"..\assets\models\dragonBall6Star.ply" 1
+"..\assets\models\dragonBall3Star.ply" 1
+"..\assets\models\dragonBall2StarNew.ply" 1
+"..\assets\models\dragonBall5Star.ply" 1
+"..\assets\models\dragonBall4Star.ply" 1
+
+// meshTransform layout
+// x y z xScale yScale zScale xRotation yRotation zRotation
+// where rotations are angles.
+
+mesh_transforms
+0.0 0.0 0.0  10000.0 10000.0 10000.0  0 0 0
+0.0 10.0 0.0  8000.0 8000.0 8000.0  180 0 0
+29.0 103.0 -16.0  10.0 10.0 10.0  -90 0 0
+0.0 90.0 0.0  0.09 0.1 0.16  0 0 0
+1000.0 8000.0 8000.0  1000.0 1000.0 1000.0  0 0 0
+0.0 60.0 -40.0  14.0 14.0 7.0  -90 0 0
+0.0 -95.0 -40.0  10.0 10.0 10.0  -90 180 0
+0.0 103.0 540.0  10.0 10.0 10.0  -90 180 0
+0.0 103.0 540.0  10.0 10.0 10.0  -90 180 0
+0.0 103.0 540.0  10.0 10.0 10.0  -90 180 0
+0.0 103.0 540.0  10.0 10.0 10.0  -90 180 0
+0.0 103.0 540.0  10.0 10.0 10.0  -90 180 0
+0.0 103.0 540.0  10.0 10.0 10.0  -90 180 0
+-220.0 110.0 460.0  1.0 1.0 1.0  -90 180 0
+-330.9 110.0 -430.2  1.0 1.0 1.0  -90 180 0
+297.5 110.0 631.25  1.0 1.0 1.0  -90 180 0
+332.0 110.0 -230.6  1.0 1.0 1.0  -90 180 0
+-315.0 110.0 230.3  1.0 1.0 1.0  -90 180 0
+-397.5 110.0 -230.96  1.0 1.0 1.0  -90 180 0
+334.0 110.0 230.15  1.0 1.0 1.0  -90 180 0
+
+mesh_textures
+"..\assets\CubeMaps\newCubeMapRT.bmp"
+"..\assets\CubeMaps\newCubeMapLF.bmp"
+"..\assets\CubeMaps\newCubeMapDN.bmp"
+"..\assets\CubeMaps\newCubeMapUP.bmp"
+"..\assets\CubeMaps\newCubeMapFT.bmp"
+"..\assets\CubeMaps\newCubeMapBK.bmp"
+
+"..\assets\Textures\nintendo\Nintendo_Switch_lambert1_BaseColor.bmp"
+"..\assets\Textures\nintendo\Nintendo_Switch_lambert1_Normal.bmp"
+"..\assets\Textures\nintendo\Nintendo_Switch_lambert1_Roughness.bmp"
+"..\assets\Textures\nintendo\Nintendo_Switch_lambert1_Height.bmp"
+"..\assets\Textures\nintendo\Nintendo_Switch_lambert1_Metallic.bmp"
+
+"..\assets\Textures\tree\tree_mushroom_BaseColor.bmp"
+"..\assets\Textures\tree\tree_mushroom_Normal.bmp"
+
+"..\assets\Textures\Cam\recording-camera-screen-with-4k-resolution-free-video.bmp"
+
+"..\assets\Textures\Moon\Image_0.bmp"
+
+"..\assets\Textures\Pyramid\tvariant2_diffuse2.bmp"
+
+"..\assets\Textures\goku\Image_0.bmp"
+
+"..\assets\Textures\Shenron\Image_0.bmp"
+"..\assets\Textures\Shenron\Image_3.bmp"
+"..\assets\Textures\Shenron\Image_1.bmp"
+"..\assets\Textures\Shenron\Image_1.bmp"
+"..\assets\Textures\Shenron\Image_2.bmp"
+"..\assets\Textures\Shenron\Image_0.bmp"
+
+"..\assets\Textures\DragonBalls\Image_1.bmp"
+"..\assets\Textures\DragonBalls\Image_1.bmp"
+"..\assets\Textures\DragonBalls\Image_1.bmp"
+"..\assets\Textures\DragonBalls\Image_1.bmp"
+"..\assets\Textures\DragonBalls\Image_1.bmp"
+"..\assets\Textures\DragonBalls\Image_1.bmp"
+"..\assets\Textures\DragonBalls\Image_1.bmp"
